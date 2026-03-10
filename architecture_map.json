@@ -1,0 +1,14 @@
+{
+    "Backends": {
+        "LLM_Connectors": [],
+        "Data_Sources": []
+    },
+    "Inference": {
+        "Core_Engine": "Divine-Earthly-Intelligence/core/hybrid_engine.py",
+        "Multi_Agent_System": "Divine-Earthly-Intelligence/agents/multi_agent.py"
+    },
+    "Logic": {
+        "Domain_Modules": [],
+        "Self_Improvement": "Divine-Earthly-Intelligence/benchmarks/eval_v1.json"
+    }
+}
